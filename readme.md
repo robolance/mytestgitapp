@@ -1,0 +1,2 @@
+#myTestGitApp
+Walkthrough of Git
